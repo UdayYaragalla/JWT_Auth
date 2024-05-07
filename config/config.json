@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "pic",
+        "password": "picadmin",
+        "database": "nodedb",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "pic",
+        "password": "picadmin",
+        "database": "nodedb",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "pic",
+        "password": "picadmin",
+        "database": "nodedb",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
